@@ -1,3 +1,3 @@
 ﻿google data scrapper
 
-Write a keyword and fined all the related links with the keyword
+Write a keyword and fine all the related links with the keyword in google search result
